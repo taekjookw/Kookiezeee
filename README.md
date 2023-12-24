@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zephyrine!
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning PHP HTML CSS JS(a litthe bit) Python(a little bit)
+- 🌱 I’m currently learning PHP HTML CSS JS(a little bit) Python(a little bit)
 - 💞️ I’m looking to collaborate on nothing. hehe
 - 📫 How to reach me: Email me at athinat.ph@kupengay.in.th / zephyrine@athinat.ph for faster reply!
 

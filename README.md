@@ -1,8 +1,8 @@
-- 👋 Hi, I’m zephyrine!
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning PHP HTML CSS JS(a little bit) Python(a little bit)
+- 👋 Hi, I’m taekjoo!
+- 👀 I’m interested in SAML, SSO and touching grass!
+- 🌱 I’m currently learning HTML CSS
 - 💞️ I’m looking to collaborate on nothing. hehe
-- 📫 How to reach me: Email me at athinat.ph@kupengay.in.th / zephyrine@athinat.ph for faster reply!
+- 📫 How to reach me: Email me at taekjoo.kw@kupengay.in.th / taekjoo.kwon@athinat.ph for faster reply!
 
 <!---
 Kookiezeee/Kookiezeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
